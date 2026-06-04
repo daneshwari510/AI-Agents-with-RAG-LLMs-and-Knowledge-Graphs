@@ -12,6 +12,7 @@ venv.bak/
 data/
 datasets/
 models/
+Data/
 
 # Jupyter Notebooks
 .ipynb_checkpoints
